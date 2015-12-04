@@ -14,7 +14,7 @@ plain:
 
 style1:
 
-![m2p-style1](/pictures/m2p-style1.png)
+![m2p-style1](/pictures/m2p_style1.png)
 
 ## TODO
 + update old templates
